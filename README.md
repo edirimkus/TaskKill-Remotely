@@ -33,7 +33,7 @@ This batch script allows administrators to remotely terminate tasks on specified
 
 ## Usage
 
-1. **Run the Script**: Execute the script in a PowerShell session with appropriate permissions.
+1. **Run the Script**: Execute the script in a Command Prompt session with appropriate permissions.
    ```batch
    .\remote-task-killer.bat
    ```
